@@ -9,7 +9,7 @@ title:               Jake Lim's Blog
 #tagline:            'A Jekyll theme'
 #description:         This site is Jake Lim's Blog
 url:                 https://gamejigi.github.io
-baseurl:             
+baseurl:             https://gamejigi.github.io
 paginate:            5
 
 # About/contact
