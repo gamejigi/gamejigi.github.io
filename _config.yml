@@ -2,7 +2,6 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               다정한 개발자
@@ -10,7 +9,7 @@ tagline:            '내 머릿속의 지우개...'
 #description:         This site is Jake Lim's Blog
 #url:                 https://gamejigi.github.io
 #baseurl:             https://gamejigi.github.io
-paginate:            5
+paginate:            10
 
 # About/contact
 author:
@@ -20,3 +19,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+
+gems: [jekyll-paginate]
