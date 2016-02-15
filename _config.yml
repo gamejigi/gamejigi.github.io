@@ -9,7 +9,7 @@ tagline:            '내 머릿속의 지우개...'
 #description:         This site is Jake Lim's Blog
 #url:                 https://gamejigi.github.io
 #baseurl:             https://gamejigi.github.io
-paginate:            10
+paginate:            8
 
 # About/contact
 author:

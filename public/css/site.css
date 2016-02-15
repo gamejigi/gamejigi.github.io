@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+@import url('poole.css');
+@import url('syntax.css');
+@import url('lanyon.css');
+
+/* Tags */
+.tags {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: justify;
+}
+
+.tags li {
+    display: inline-block;
+    margin: 0 25px 25px 0;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.tag {
+    background: #ddd;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    box-shadow: 1px 1px 2px #ccc;
+    -moz-box-shadow: 1px 1px 2px #ccc;
+    -webkit-box-shadow: 1px 1px 2px #ccc;
+    color: #888;
+    padding: 2px 8px 2px 8px;
+    text-decoration: none;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+
+.posts {
+    list-style: none;
+    padding: 0;
+    text-align: justify;
+}
+
+/* Pagination */
+.pagination {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: justify;
+}
+
+.pagination li {
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+}
