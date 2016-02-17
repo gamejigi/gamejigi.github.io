@@ -1,7 +1,8 @@
-@import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+/*@import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);*/
 @import url('poole.css');
 @import url('syntax.css');
 @import url('lanyon.css');
+@import url('style.css');
 
 /* Tags */
 .tags {
